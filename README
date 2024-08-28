@@ -38,7 +38,7 @@ Este programa solicita ao usuário uma temperatura em graus Celsius, realiza a c
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/Cristina1607/nome-do-repositorio.git
+   git clone https://github.com/Cristina1607/Conversao_de_Temperatura.git
 2. Navegue até o diretório do projeto:
   cd nome-do-repositorio
 3. Execute o programa:
