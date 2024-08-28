@@ -1,0 +1,49 @@
+# Projeto: Conversão de Temperatura de Celsius para Fahrenheit
+
+Este projeto é um programa em Python que converte uma temperatura fornecida em graus Celsius para graus Fahrenheit. O objetivo do projeto é demonstrar o uso de operações matemáticas simples e a manipulação de entradas e saídas em Python.
+
+## Índice
+
+- [Descrição](#descrição)
+- [Funcionalidades](#funcionalidades)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Como Executar o Projeto](#como-executar-o-projeto)
+- [Exemplos de Uso](#exemplos-de-uso)
+- [Contribuições](#contribuições)
+- [Licença](#licença)
+- [Contato](#contato)
+
+## Descrição
+
+Este programa solicita ao usuário uma temperatura em graus Celsius, realiza a conversão para Fahrenheit usando a fórmula `(Celsius * 9/5) + 32` e exibe o resultado.
+
+## Funcionalidades
+
+- Solicita ao usuário uma temperatura em graus Celsius.
+- Converte a temperatura de Celsius para Fahrenheit.
+- Exibe a temperatura convertida em graus Fahrenheit.
+
+## Tecnologias Utilizadas
+
+- **Linguagem de Programação:** Python 3.x
+
+## Como Executar o Projeto
+
+### Pré-requisitos
+
+- Python 3.x instalado.
+
+### Passos para Execução
+
+1. **Clone o repositório:**
+
+   ```bash
+   git clone https://github.com/Cristina1607/nome-do-repositorio.git
+2. Navegue até o diretório do projeto:
+  cd nome-do-repositorio
+3. Execute o programa:
+  python3 nome_do_arquivo.py
+4. Digite a temperatura em graus Celsius quando solicitado.
+
+Licença
+Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
