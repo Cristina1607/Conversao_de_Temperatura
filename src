@@ -1,0 +1,6 @@
+def temperatura():  
+    Celcius = float(input("Digite a temperatura em grau Celcius em que você deseja transformar em Fahrenheit:"))
+    Fahrenheit = (Celcius * 9/5) + 32
+    print(f"A temperatura em graus Fahrenheit é: {Fahrenheit:.2f}")
+    
+temperatura()
